@@ -11,9 +11,6 @@ MICHAEL'S FILES:
 	CleaningScript.ipynb,
  	RegressionScript.ipynb,
   	Written_Analysis_final.docx
-
-JADE'S FILES: 
-	JadeAnalysis.ipynb
 	
 JADE'S FILES:
 	JadeAnalysis.ipynb
