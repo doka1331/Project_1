@@ -20,7 +20,7 @@ RAW DATA SET:
 	imdb_top_1000.csv
 
 CLEANED DATA SET:
-	cleaned_imdb_data.csv
+	cleaned_imdb_file.csv
   
 **JADE'S ANALYSIS**
 After establishing that any more analysis could be misleading because of the bias towards drama, we filtered all movies that were not under the drama genre. This gets rid of a few movies that are not drama. This is the data that we will use going forward to answer the question: How does the length of a drama movie correlate with the professional critic rating or meta-score?
