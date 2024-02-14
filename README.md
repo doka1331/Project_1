@@ -10,7 +10,8 @@ MICHAEL'S FILES:
  	RegressionScript.ipynb,
   	Written_Analysis_final.docx
 
-JADE'S FILES:
+JADE'S FILES: 
+	JadeAnalysis.ipynb
 	
 
 **TYLER'S ANALYSIS**
