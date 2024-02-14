@@ -10,6 +10,9 @@ MICHAEL'S FILES:
  	RegressionScript.ipynb,
   	Written_Analysis_final.docx
 
+JADE'S FILES:
+	
+
 **TYLER'S ANALYSIS**
 1.	Is there a relationship between IMDB Rating and the total amount of money earned by movies?
     a.	I believe this is an interesting question to examine because of the potential relationship between the two statistics. One might assume that the higher a movie is rated, the more money that movie will generate (and visa versa). If we do find a relationship (positive correlation) between IMDB Rating and the total amount of money earned, that would allow us to, in general, predict how well a movie performed in the Box Office solely based on that movie’s IMDB Rating.
