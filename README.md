@@ -15,6 +15,16 @@ MICHAEL'S FILES:
 JADE'S FILES: 
 	JadeAnalysis.ipynb
 	
+JADE'S FILES:
+	JadeAnalysis.ipynb
+ 	JadeAnalysis.docx
+  
+**JADE'S ANALYSIS**
+After establishing that any more analysis could be misleading because of the bias towards drama, we filtered all movies that were not under the drama genre. This gets rid of a few movies that are not drama. This is the data that we will use going forward to answer the question: How does the length of a drama movie correlate with the professional critic rating or meta-score?
+
+As you can see in the scatterplot, there is a very slight positive relationship meaning that for every minute increase, there is a 0.02 increase in meta-score. But there are many outliers so I decided to find the distribution of runtimes and Meta-Score. To create a normal distribution, I found the mean and standard deviation of both meta-score and runtimes. I used these to create the upper and lower bounds which eliminates the outliers.  I then created a normal distribution with the same mean and standard deviations from earlier calculations. Creating normal distributions for both meta-score and movie runtimes. Finally, creating a scatterplot comparing the two shows that there is no relationship between meta-score and runtime. 
+
+So in conclusion, we cannot say that there is a relationship between drama movie length and meta-score. 
 
 **TYLER'S ANALYSIS**
 1.	Is there a relationship between IMDB Rating and the total amount of money earned by movies?
